@@ -1,7 +1,7 @@
 {
-  "name": "mpg123-player",
+  "name": "@joelvitorniino/mpg123-player",
   "version": "1.0.0",
-  "description": "Player music with mpg123 through nodejs",
+  "description": "Player of music with mpg123",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
