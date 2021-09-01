@@ -1,6 +1,6 @@
 {
-  "name": "@joelvitorniino/mpg123-player",
-  "version": "1.0.1",
+  "name": "mpg123-player",
+  "version": "1.0.2",
   "description": "Player of music with mpg123",
   "main": "src/lib/index.js",
   "scripts": {
